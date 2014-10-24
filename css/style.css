@@ -1,0 +1,203 @@
+/*
+    Document   : style
+    Created on : 2014, 18:06:43
+    Author     : Juan Ramos
+
+*/
+@font-face {
+  font-family: 'redes';
+  src: url('fonts/redes.eot?7476559');
+  src: url('fonts/redes.eot?7476559#iefix') format('embedded-opentype'),
+       url('fonts/redes.woff?7476559') format('woff'),
+       url('fonts/redes.ttf?7476559') format('truetype'),
+       url('fonts/redes.svg?7476559#redes') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+ [class^="icon-"]:before, [class*=" icon-"]:before {
+  font-family: "redes";
+  font-style: normal;
+  font-weight: normal;
+  speak: none;
+ 
+  display: inline-block;
+  text-decoration: inherit;
+  margin-right: .2em;
+  text-align: center;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1em;
+}
+.icon-twitter:before { content: '\e800'; } 
+.icon-facebook:before { content: '\e801'; }
+
+a {
+    text-decoration: none;
+}
+body {
+    background: #fff;
+    content: #58595b;
+    font-family: 'Lato', sans-serif;
+    font-size: 16px;
+}
+
+body, h2, h3, h4, p {
+    font-weight: 300
+}
+
+*:focus {
+    outline: 0;
+}
+
+li {
+    list-style: none;
+}
+
+h1, h2, h3, ul,p {
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+*{
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+section, header, footer, nav, section, #slider {
+    margin: 0 auto;
+    width: 1060px;
+}
+
+/*=================================================================
+header
+===================================================================*/
+header {
+    text-align: center;
+}
+header figure{
+    padding:30px 0 50px;
+}
+/*=================================================================
+Nav
+===================================================================*/
+nav{
+    border-top: 2px solid #545454;
+    text-align:left;
+}
+nav ul{
+    display: inline-block;
+}
+nav  li{
+    display: inline-block;
+    text-transform: uppercase;
+}
+#nav li a{
+    color: #545454;
+    display: block;
+    font-weight: 600;
+    margin-right: 70px;
+    padding: 10px 0;
+    position: relative;
+}
+
+#nav li a:hover{
+    color: #ea2629
+}
+#nav li a:before{
+    background: #ea2629;
+    content: '';
+    height: 5px;
+    opacity: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+#nav li a:hover:before{
+    opacity: 1
+}
+#network{
+    text-align: right;  
+    width: 100px
+}
+
+#network a{
+    color:#ea2629;
+    display: block; 
+    padding: 6px;
+}
+#network a:hover{
+    color:#545454;
+}
+#network li:first-child{
+    border-right: solid 2px #ea2629;
+}
+/*=================================================================
+Slider
+===================================================================*/
+#slider{
+  padding: 20px 0 0
+}
+#slider img{
+    width: 1060px
+}
+
+/*=================================================================
+Columns
+===================================================================*/
+.column-2{
+    display: inline-block;
+    margin-right: -4px;;
+    text-align: justify;
+    vertical-align: top;
+    width: 50%;
+}
+.column-first{
+    padding-right: 20px
+}
+.column-end{
+    padding-left: 20px
+}
+.right{
+    text-align: right;
+}
+.box{
+    border: solid 2px #2cbdc1;
+    margin: 50px 0;
+    width: 100%;
+    height: 400px
+}
+.heightTemp{
+    height:200px;
+}
+/*=================================================================
+Inicio
+===================================================================*/
+.inicio article{
+    margin-top: 30px
+}
+.inicio h3{
+    font-size: 1.5em;
+    margin-bottom: 10px
+}
+/*=================================================================
+Footer
+===================================================================*/
+footer{
+    border: solid 2px #2cbdc1;
+    margin-top: 30px;
+    padding: 50px 0;
+    text-align: right;
+}
+footer li{
+    display: inline-block;
+    padding: 0 15px;
+    vertical-align: middle;
+}
+footer li:last-child{
+    border-left: 2px solid #545454;
+}
