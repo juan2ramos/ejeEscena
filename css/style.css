@@ -100,7 +100,7 @@ nav  li{
     color: #545454;
     display: block;
     font-weight: 600;
-    margin-right: 30px;
+    margin-right: 95px;
     padding: 10px 0;
     position: relative;
 }
@@ -191,9 +191,9 @@ Inicio
 Footer
 ===================================================================*/
 footer{
-    border: solid 2px #2cbdc1;
+    border-top: solid 2px #545454;
     margin-top: 30px;
-    padding: 50px 0;
+    padding: 20px 0;
     text-align: right;
 }
 footer li{

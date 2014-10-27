@@ -46,8 +46,8 @@
       <li><a href="">sobre eje escena</a></li>
       <li><a href="http://eje-escena.circulart.org/m/index.php?modo=inscripciones" target="_blank">formulario</a></li>
       <li><a href="">Taller preparatorio</a></li>
-      <li><a href="">noticias</a></li>
-      <li><a href="">programación</a></li>
+      <!--<li><a href="">noticias</a></li>
+      <li><a href="">programación</a></li>-->
       <li><a href="">contacto</a></li>
     </ul>
     <ul id="network">
