@@ -80,7 +80,10 @@ header {
     text-align: center;
 }
 header figure{
-    padding:30px 0 50px;
+    padding:15px 0;
+}
+header img{
+    max-width: 450px;
 }
 /*=================================================================
 Nav
@@ -100,7 +103,7 @@ nav  li{
     color: #545454;
     display: block;
     font-weight: 600;
-    margin-right: 95px;
+    margin-right: 70px;
     padding: 10px 0;
     position: relative;
 }
@@ -140,7 +143,7 @@ nav  li{
 Slider
 ===================================================================*/
 #slider{
-  padding: 20px 0 0
+  padding: 10px 0 0
 }
 #slider img{
     width: 1060px
@@ -177,6 +180,9 @@ Columns
 .heightTemp{
     height:200px;
 }
+.clear{
+    clear: both;
+}
 /*=================================================================
 Inicio
 ===================================================================*/
@@ -186,6 +192,38 @@ Inicio
 .inicio h3{
     font-size: 1.5em;
     margin-bottom: 10px
+}
+
+/*=================================================================
+Taller
+===================================================================*/
+.taller {
+    margin: 20px auto;
+}
+.taller img{
+    max-width: 150px;
+    margin: 0 5px 0 0;
+    float: 	left;
+}
+.taller p{
+    text-align: justify;
+    margin: 20px 0;
+}
+.taller h2{
+    color: #48463f;
+    font-weight: 600;
+    margin: 0 0 20px;
+}
+.taller h3{
+    font-weight: 500;
+    margin: 25px 0 0;
+    text-decoration: underline;
+}
+.taller h4{
+    font-weight: 500
+}
+.taller li{
+    list-style: decimal;
 }
 /*=================================================================
 Footer
@@ -203,4 +241,5 @@ footer li{
 }
 footer li:last-child{
     border-left: 2px solid #545454;
+    margin-left	: 405px
 }

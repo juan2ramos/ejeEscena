@@ -43,9 +43,13 @@
   </figure>
   <nav>
     <ul id="nav">
-      <li><a href="">sobre eje escena</a></li>
-      <li><a href="http://eje-escena.circulart.org/m/index.php?modo=inscripciones" target="_blank">formulario</a></li>
-      <li><a href="">Taller preparatorio</a></li>
+      <li><a href="inicio">sobre eje escena</a></li>
+      <li>
+          <a href="http://eje-escena.circulart.org/m/index.php?modo=inscripciones" target="_blank">
+              formulario de registro
+          </a>
+      </li>
+      <li><a href="taller">Taller preparatorio</a></li>
       <!--<li><a href="">noticias</a></li>
       <li><a href="">programación</a></li>-->
       <li><a href="">contacto</a></li>
@@ -58,7 +62,7 @@
   </nav>
 </header>
 <?php include $fileName; ?>
-<footer>
+<footer class="clear">
   <ul>
     <li><img src="images/min-cultura.png" alt="Ministerio de Cultura" /> </li>
     <li><img src="images/prosperidad-para-todos.png" alt="Prosperidad para todos" /> </li>
