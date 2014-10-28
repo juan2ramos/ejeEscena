@@ -52,7 +52,7 @@
       <li><a href="taller">Taller preparatorio</a></li>
       <!--<li><a href="">noticias</a></li>
       <li><a href="">programación</a></li>-->
-      <li><a href="">contacto</a></li>
+      <li><a href="contacto">contacto</a></li>
     </ul>
     <ul id="network">
     
