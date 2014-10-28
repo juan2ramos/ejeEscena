@@ -16,7 +16,7 @@
         Del 10 al 12 de noviembre de 2014 se realizará en la ciudad de Manizales, EJE ESCENA - Ideas, Negocios y
         Oportunidades para las artes escénicas del Eje Cafetero, el cual contará con una Rueda de Negocios tipo Pitch,
         en la cual participaran programadores, directores de festivales y productores nacionales y extranjeros, además
-        de una Muestra Artística donde se presentarán algunas obras seleccionadas por un comité curatorial. 
+        de una Muestra Artística donde se presentarán algunas obras seleccionadas por un comite curatorial.
     </article>
     <div class="column-2 column-first">
         <!-- <div class="box "></div>-->

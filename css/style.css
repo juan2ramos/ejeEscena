@@ -206,8 +206,8 @@ Taller
     float: 	left;
 }
 .taller p{
-    text-align: justify;
-    margin: 20px 0;
+    text-align: left;
+    margin: 0 0 20px 0;
 }
 .taller h2{
     color: #48463f;
@@ -329,4 +329,13 @@ footer li:last-child{
     border-bottom: none;
     box-shadow: inset 1px 1px 5px rgba(108, 108, 108, 0.41);
     margin-bottom: 13px;
+}
+h5{
+    margin: 0;
+}
+.top{
+    margin-top: 0 ;
+}
+ol{
+    margin: 5px 0
 }

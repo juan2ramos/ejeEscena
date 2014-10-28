@@ -23,49 +23,48 @@
                 encontrar soluciones muy completas y gratuitas que pueden ser de enorme ayuda en los procesos de
                 desarrollo
                 productivo de las industrias culturales. por medio de un taller de formación dirigido a
-
-            </p>
-        </div>
-        <div class="column-2 column-end">
-            <p>
                 realizar portafolios de servicios artísticos digitales destinados
                 a circular globalmente; nuestro interés es proveer de herramientas de promoción y divulgación concretas
                 a
                 las Buscamos asesorar y acompañar a los artistas en la definición de criterios editoriales y técnicos de
-                promoción,
-
-            </p>
-
-            <p>
-                mipymes del sector de la cultura, así como estimular el uso de las tecnologías de la información y
+                promoción, mipymes del sector de la cultura, así como estimular el uso de las tecnologías de la información y
                 comunicación
                 en el ámbito empresarial.
+            </p>
+        </div>
+        <div class="column-2 column-end">
+
+            <p>
+
                 Así mismo se busca mediante un módulo dedicado a las técnicas de negociación, que los artistas lleguén
                 preparados para afrontar la rueda de negocios y logren una buena preparación del Pitch o discurso que
                 presentarán a los diferentes programadores y productores que estarán presentes en el mercado.
             </p>
-        </div>
-    </article>
-    <article>
-
-        <h3>Descripción general</h3>
-
-        <div class="column-2 column-first ">
-
+            <h3>Descripción general</h3>
             <p>
                 El taller expone experiencias exitosas en el manejo de portafolios de servicios; define los criterios
                 editoriales fundamentales que han de tenerse en cuenta en la comercialización de productos artísticos a
                 través
                 de internet; muestra las principales
             </p>
-        </div>
-        <div class="column-2 column-end">
             <p>
                 herramientas gratuitas de comunicación global que pueden ponerse al
                 servicio del quehacer artístico y define las técnicas para una exitosa negociación en un ambiente de
                 promoción
                 como lo es la Rueda de Negocios.
             </p>
+        </div>
+    </article>
+    <article>
+
+
+
+        <div class="column-2 column-first ">
+
+
+        </div>
+        <div class="column-2 column-end">
+
         </div>
     </article>
     <h3>Talleres</h3>
@@ -100,11 +99,11 @@
         <h4>Segundo Módulo - CREACIÓN DE PORTAFOLIOS DIGITALES</h4>
         <h5>Objetivo</h5>
 
-        <p>
+        <p class="top">
             Generar conocimientos básicos en la creación de contenidos y en el manejo de la identidad gráfica en la
             creación de portafolios digitales
         </p>
-        <h5>Temas:</h5>
+        <h5>Contenido :</h5>
         <ol>
             <li> Criterios básicos de identidad gráfica corporativa</li>
             <li> De los objetos editoriales a los objetos digitales</li>
